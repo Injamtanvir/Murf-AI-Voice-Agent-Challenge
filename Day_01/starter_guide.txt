@@ -1,0 +1,7 @@
+# From root directory
+chmod +x start_app.sh
+./start_app.sh
+
+
+
+Open your browser and navigate to: http://localhost:3000
